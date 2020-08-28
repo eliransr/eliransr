@@ -1,13 +1,11 @@
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="30%"/> 
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" height="180"  /> 
  
- 
- 
- 
-### 👋 &nbsp; Hi, I'm Eliran Srur 
- 
+### &nbsp; Hi, I'm Eliran Srur 👋 
+
 <p><em>Industrial and management engineer, specializing in information systems</br>
 Data Analyst at <a href="https://taxes.gov.il/English/Pages/HomePageENG.aspx">Israel Tax Authority</a>
-</em></p>  
+</em></p>
+&nbsp;
 <h2>
 <!-- <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40"> -->
  
@@ -27,4 +25,6 @@ Nowadays, I have B.Sc degree in Industrial Engineering and Management, specializ
 ✉️ &nbsp;You can shoot me an email at eliransrur@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 <!-- https://www.adityavsingh.com/resume.html -->
+
+
 
