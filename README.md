@@ -1,4 +1,4 @@
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" height="150"  /> 
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" height="155"  /> 
  
 ### &nbsp; Hi, I'm Eliran Srur 👋 
 
