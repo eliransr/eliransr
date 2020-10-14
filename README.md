@@ -1,7 +1,7 @@
  <!-- ![Eliran Srur Banner](https://raw.githubusercontent.com/eliransr/eliransr/master/assets/Eliran%20Srur.jpg ) -->
 
 
-## &nbsp; Hi, I'm Eliran Srur 👋 
+### &nbsp; Hi, I'm Eliran Srur 👋 
 
 <p><em>Industrial and management engineer, specializing in information systems</br>
 Data Analyst at <a href="https://taxes.gov.il/English/Pages/HomePageENG.aspx">Israel Tax Authority</a>
