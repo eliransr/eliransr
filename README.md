@@ -1,4 +1,5 @@
- ![Eliran Srur Banner](https://raw.githubusercontent.com/eliransr/eliransr/master/assets/Eliran%20Srur.jpg)
+ ![Eliran Srur Banner](https://raw.githubusercontent.com/eliransr/eliransr/master/assets/Eliran%20Srur.jpg )
+
 
  ### &nbsp; Hi, I'm Eliran Srur 👋 
 
