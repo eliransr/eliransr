@@ -1,16 +1,12 @@
  <!-- ![Eliran Srur Banner](https://raw.githubusercontent.com/eliransr/eliransr/master/assets/Eliran%20Srur.jpg ) -->
 
 
- ### &nbsp; Hi, I'm Eliran Srur 👋 
+## &nbsp; Hi, I'm Eliran Srur 👋 
 
 <p><em>Industrial and management engineer, specializing in information systems</br>
 Data Analyst at <a href="https://taxes.gov.il/English/Pages/HomePageENG.aspx">Israel Tax Authority</a>
 </em></p>
-&nbsp;
-<h2>
-<!-- <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40"> -->
- 
- 
+
  
 ## &nbsp; 👨🏻‍💻 &nbsp;About Me
 <p>I'm motivated, in-depth understanding and excellent self-learning ability and desire for continuous progress and improvement, with excellent interpersonal communication.
