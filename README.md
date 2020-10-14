@@ -1,4 +1,4 @@
- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+ ![Eliran Srur Banner](https://raw.githubusercontent.com/eliransr/eliransr/master/assets/Eliran%20Srur.jpg)
 
  ### &nbsp; Hi, I'm Eliran Srur 👋 
 
