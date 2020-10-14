@@ -6,9 +6,10 @@
 <p><em>Industrial and management engineer, specializing in information systems</br>
 Data Analyst at <a href="https://taxes.gov.il/English/Pages/HomePageENG.aspx">Israel Tax Authority</a>
 </em></p>
+<h2>
 
  
-## &nbsp; 👨🏻‍💻 &nbsp;About Me
+### &nbsp; 👨🏻‍💻 &nbsp;About Me
 <p>I'm motivated, in-depth understanding and excellent self-learning ability and desire for continuous progress and improvement, with excellent interpersonal communication.
 
 Nowadays, I have B.Sc degree in Industrial Engineering and Management, specialization in Information Systems at Jerusalem College of Engineering. I'm enthusiastic about data science, data analysis, machine learning, statistics and product life.</p> 
