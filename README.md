@@ -4,7 +4,7 @@
 ### &nbsp; Hi, I'm Eliran Srur 👋 
 
 <p><em>Industrial and management engineer, specializing in information systems</br>
-Data Analyst at <a href="https://taxes.gov.il/English/Pages/HomePageENG.aspx">Israel Tax Authority</a>
+Software Integration Developer at <a href="https://www.hibob.com/about/">HiBob</a>
 </em></p>
 <h2>
 
